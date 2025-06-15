@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\Users\Alejo\Documents\PASCAL\TP en clase\tp6 ej1.dp
+Name=tp6 ej1
+MainUnit=C:\Users\Alejo\Documents\PASCAL\TP en clase\tp6 ej3.pas
+UnitCount=1
+ResFiles=C:\Users\Alejo\Documents\PASCAL\TP en clase\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\bin\Mainicon.ico
+[Unit1]
+FileName=C:\Users\Alejo\Documents\PASCAL\TP en clase\tp6 ej3.pas
+FileTime=1521264374
